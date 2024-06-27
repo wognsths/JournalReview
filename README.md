@@ -1,5 +1,5 @@
 # JournalReview
 
-RACING: https:://wognsths.github.io/JournalReview/RACING
+RACING: https://wognsths.github.io/JournalReview/RACING
 
-LODESTAR: https:://wognsths.github.io/JournalReview/LODESTAR
+LODESTAR: https://wognsths.github.io/JournalReview/LODESTAR
