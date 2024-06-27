@@ -1,0 +1,231 @@
+---
+title: "Combination Therapy as an Alternative of High-intensity Statin Strategy"
+title-slide-attributes:
+    data-background-image: "RACING BI.png"
+    data-background-size: contain
+    data-background-opacity: "0.1"
+author: "Jaehun Shon"
+format: 
+  revealjs:
+    slide-number: true
+    transition: slide
+    theme: simple
+    footer: RACING
+    reference-location: document
+    scrollable: true
+editor: visual
+---
+
+## Terminology_1
+
+-   **Atherosclerotic cardiovascular disease(ASCVD)** : 동맥경화성 심혈관질환; 죽상동맥경화로 인해 발생한 심혈관 질환군으로, 대개 이상지질혈증이 원인임. MI(심근경색), ACS(급성 관상동맥 증후군), 관상동맥 등의 재관류술 병력, 허혈성 뇌졸중, 말초 동맥질환 중 하나 이상을 가지고 있는 경우 ASCVD로 분류됨.<br><br>
+
+## Terminology_2
+
+-   **Low-density lipoprotein cholesterol(LDL-C)**: 저말도 지단백에 있는 콜레스테롤. LDL은 혈류를 통해 운반되면서 자신의 콜레스테롤 일부를 혈관 내벽에 내어준다. <br><br>
+-   **Statin**: 스타틴; 간에서 콜레스테롤을 합성하는 데 관여하는 효소인 HMG-CoA 환원효소를 억제하여 콜레스테롤 합성을 감소시키는 역할을 함. <br><br>
+-   **Ezetimibe**: 에제미티브; 콜레스테롤이 소장에서 체내로 다시 흡수되는 것을 막아주어 혈액 내 LDL-C 수치를 낮추어주는 역할을 함. <br><br>
+
+## Objective
+
+-   **Show moderate-intensity statin with ezetimible combination therapy is non-inferior to treatment by high-intensity statin.** <br><br>
+-   **Test whether the combination therapy group was superior to the monotherapy group in achieving LDL-C levels less than 70 mg/dL**
+
+## Motivation_1
+
+-   ASCVD 환자의 치료에는 LDL-C 감소가 중요하기 때문에 고강도 Statin 전략이 주요 방법으로 제시된다. <br><br>
+
+-   그러나 Statin은 환자의 개별적 특성에 따라 부작용이 존재하며 장기적 측면에서도 부정적인 영향을 미친다. <br><br>
+
+## Motivation_2
+
+-   기존 스타틴 치료에 대한 대안으로 중간 강도의 Statin과 그 외의 지질강하제를 병용하는 방법이 제시되었음. <br><br>
+
+-   그러나 이러한 방법은 이전의 실험이 있음에도, 부족한 표본 수와 실험 기간으로 인해 충분한 근거가 뒷받침되지 않은 상황임. <br><br>
+
+-   따라서 RACING trial에서는 효능과 안정성의 측면에서 고강도 스타틴 치료 요법에 비해 열등하지 않음을 보이고자 함. <br><br>
+
+# Design
+
+## Abstract
+
+-   Study Population<br><br>
+
+-   Randomization<br><br>
+
+-   Differentiated Administration<br><br>
+
+-   Observation<br><br>
+
+-   Statistical Procedures for Validity<br><br>
+
+## Study population
+
+-   **선정 대상**: ASCVD을 진단받은 19\~80세 환자들 <br><br>
+
+-   **제외 대상**: 간 관련 기저질환, 간 이식 이력, 약제 과민성, 기대여명 3년 이내 등 <br><br>
+
+## Randomization
+
+-   병용 치료법(실험군), 고강도 스타틴(단독) 치료법(대조군) 군에 1:1 랜덤 배정.<br><br>
+
+-   Stratification Criteria: 기저 LDL-C level 정도, 급성 관상동맥 증후군, 당뇨 여부에 따라 층화.<br><br>
+
+-   웹 응답 기반 순차적 무작위 블록 배정으로 각 연구 기관에 환자 배정.<br><br>
+
+### Result of Randomized
+
+<img src="Randomized.png"/> :::
+
+## Differentiated Administration
+
+-   Combination Therapy: Rosuvastatin 10 mg + Ezetimibe 10 mg<br><br>
+
+-   High-Intensity Statin Monotherapy: Rosuvastatin 20 mg<br><br>
+
+-   cf. 초기 지정된 용량을 최대한 유지하도록 함.<br><br>
+
+## Observation
+
+-   **Primary endpoint:**
+    -   **Cardiovascular Death** (심혈관질환 사망), **Major cardiovascular event** (주요 심혈관질환), **Non-fatal stroke** (비치사성 뇌졸중)의 3년간 발생 비율이 inferiority margin 2.0%보다 높은지 확인. <br><br>
+-   **Secondary endpoint:**
+    -   **Efficacy1: 1, 2, 3년 LDL-C \< 70mg/dL 비율**, All-cause Death + Major cardiovascular event + Non-fatal stroke <br><br>
+    -   **Efficacy2: Post-hoc 분석으로 LDL-C \< 55mg/dL 비율 확인.** <br><br>
+    -   Safety: 내성으로 인한 약물 중단/감량, 부작용 발생 등
+-   Observation interval: 2개월, 6개월; 이후 매년, **총 3년** <br><br>
+
+## Statistical Procedures for Validity; objective
+
+-   각 군 3년 primary endpoint 누적 발생률을 13%, 14%로 가정함. <br><br>
+-   Noninferiority margin 2.0% <br><br>
+-   Power: 80% <br><br>
+-   Significance level: 5.0% <br><br>
+-   탈락율 15% <br><br>
+-   **최종 3780명, 각 군 1890명**
+
+## Statistical Procedures for Validity; measure & criteria
+
+-   **Primary objective**: noninferiority
+-   **Secondary objective**: superiority, LDL-C \< 70mg/dL <br><br>
+-   Primary endpoint -\> Log rank test, Cox proportional-hazards regression <br><br>
+-   Noninferiority는 두 군 primary endpoint 누적발생률 차이의 one-sided 95.0% CI upper bound \< 2.0% 일 때 입증.
+
+## Appendix
+
+::: panel-tabset
+### Figure
+
+<img src="RACING Study design.jpg"/>
+:::
+
+# Results
+
+## Prerequisite
+
+-   기간: 2017/02/14 \~ 2018/12/18 <br><br>
+-   두 그룹 간 환자의 **Baseline characteristic은 유의미한 차이가 없었다.** <br><br>
+-   평균 나이 64세, 남성 75%, 한국인 <br><br>
+-   심근경색 과거력 40%, PCI 과거력 66%, 당뇨 37% <br><br>
+-   기존 복용 이력: 고강도 statin 38%, 중간 강도 statin 36%, 중간 강도 statin + ezetimibe 13%
+
+## Primary Endpoint
+
+-   병용 요법 그룹(172명; 9.1%), 고강도 스타틴 단독 요법 그룹(186명; 9.9%) <br><br>
+
+    $\hat{\Delta} = - 0.78$, 90% C.I. (-2.39, 0.83) 비열등성 한계인 2.0%를 충족하여 주요 사건 발생의 측면에서 병용 요법과 고강도 스타틴 단독 요법의 차이가 통계적으로 유의미하지 않다는 것이 밝혀짐. <br><br>
+
+-   Conclusion: Non-inferiority is proved.
+
+## Overview
+
+::: panel-tabset
+### Primary, secondary endpoint
+
+<img src="RACING Table 2.png"/>
+
+### Time series for primary endpoint
+
+<img src="RACING Figure 2.jpg"/>
+:::
+
+## Secondary Endpoint_Efficacy
+
+-   LDL-C \< 70 mg/dL 목표 도달율<br><br>
+
+    | Year | 병용 치료 전략 | 스타틴 단독 전략 |
+    |:----:|:--------------:|:----------------:|
+    |  1   |      73%       |       55%        |
+    |  2   |      75%       |       60%        |
+    |  3   |      72%       |       58%        |
+
+-   LDL-C \< 55 mg/dL 목표 도달율 (사후검정) <br><br>
+
+    | Year | 병용 치료 전략 | 스타틴 단독 전략 |
+    |:----:|:--------------:|:----------------:|
+    |  1   |      42%       |       25%        |
+    |  2   |      45%       |       29%        |
+    |  3   |      42%       |       25%        |
+
+-   LDL-C 중위값 비교:
+
+    **58(48-71)mg/dL** vs 66(56-80)mg/dL<br><br>
+
+    (p-value \< 0.0001)
+
+## Proportion of LDL-C level under 70 mg/dL
+
+::: panel-tabset
+### 
+
+<img src="RACING Table 3.png"/>
+:::
+
+## Secondary Endpoint_Safety
+
+-   치료 기간 중 약물 복용 중단 / 감소 비율:<br><br>
+
+    4.8% vs 8.2% (p \< 0.0001)
+
+## Individual Clinical Endpoint
+
+-   모든 subgroup에서 P-value \> 0.05로 일관성 유지
+
+## Safety Endpoint, Subgroup analysis
+
+::: panel-tabset
+### Table 4
+
+<img src="RACING Table 4.png"/>
+
+### Figure 3
+
+<img src="RACING Figure 3.png"/>
+:::
+
+## Conclusion
+
+-   **RACING trial은 3년의 관찰 결과, ASCVD 환자를 대상으로 중간 강도 statin과 ezetimibe의 병용요법이 고강도 statin 단독요법에 비해 임상적으로 열등하지 않았다.** <br><br>
+
+    **또한 3년간의 임상 결과로 병용 요법이 단독 요법에 비해 약물 불내성으로 인한 중단 또는 복용량 감소의 비율이 더 적었으며, LDL-C의 농도를 70 mg/dL 미만으로 낮춘 비율이 더 높았다.** <br><br>
+
+    **따라서 combination theraphy가 LDL-C 목표치 달성 및 복약 유지 면에서 더 우월할 수 있다.**
+
+## Discussion_1
+
+-   Non-inferiority는 증명되었으나 superiority의 증명을 위해서는 더 많은 표본이 필요하다. <br><br>
+-   위험군 환자에 관해서도 고효능 Statin을 사용하는 것이 강력히 권장되지만 에제미티브 사용같은 혼합 사용이 더욱 효과가 좋을 수 있다. 특히 스타틴 부작용은 고강도일 경우 그 발생 빈도가 높기 때문에, 약물 혼합 사용이 안정성 측면에서도 유리하다. <br><br>
+-   Statin 내약성이 떨어지는 환자들에 대하여, combination therapy가 좋은 대안이 될 수 있다.
+
+## Discussion_2
+
+-   고강도 statin이 중간 강도 statin에 비해 치료 성적이 우월함에도 불구하고, 병용요법이 단독요법에 비교하여 비열등성이 입증된 이유는 다음과 같다. <br><br>
+-   첫째, LDL-C의 농도 감소가 주요 혈관 질환 감소와 깊이 연관되어 있다. 따라서 LDL-C를 우선 낮추는 것이 효과적이며, 이는 병용 요법이 더욱 유리하다. <br><br>
+-   둘째, **ezetimibe의 콜레스테롤 저하와 관련 없는 효과가 주요 혈관 질환을 막는 것에 기여했을 수도 있다.**
+
+## Limits
+
+-   Open-label 시험이었기 때문에 환자 증상 보고에 편향이 생길 수 있으며, 고강도 스타틴 단독 요법을 받는 환자의 nocebo 효과의 우려 또한 존재한다. <br><br>
+-   Possibility of being "underpowered": <br><br>
+-   **Primary endpoint 누적발생률이 낮아** 비교가 어려울 수 있다.<br><br>
+-   개인적 의견: 치료전략 실패에 대한 개별 분석이 존재하지 않는다. Predetermined 변수가 더 주어졌다면 추가 적용 & 예측 가능한 모델이 되었을까 하는 생각.
